@@ -2,6 +2,15 @@
 
 This project uses a Convolutional Neural Network (CNN) trained on the MNIST dataset to recognize handwritten digits in real-time from a webcam feed.
 
+# OUTPUT:-
+
+![OUTPUT](images/Screenshot 2025-04-30 173540.png)
+![OUTPUT](images/Screenshot 2025-04-30 173618.png)
+![OUTPUT](images/Screenshot 2025-04-30 173719.png)
+![OUTPUT](images/Screenshot 2025-04-30 173801.png)
+
+
+
 ---
 
 ## Project Files
@@ -43,6 +52,4 @@ This project uses a Convolutional Neural Network (CNN) trained on the MNIST data
     * Using your webcam, you can write a number inside a blue box on the screen.
 
     * The system will predict and display the number above the box.
-
-    
-
+ 
