@@ -4,11 +4,10 @@ This project uses a Convolutional Neural Network (CNN) trained on the MNIST data
 
 # OUTPUT:-
 
-![OUTPUT](images/Screenshot 2025-04-30 173540.png)
-![OUTPUT](images/Screenshot 2025-04-30 173618.png)
-![OUTPUT](images/Screenshot 2025-04-30 173719.png)
-![OUTPUT](images/Screenshot 2025-04-30 173801.png)
-
+![OUTPUT](images/Screenshot_2025-04-30_173540.png)
+![OUTPUT](images/Screenshot_2025-04-30_173618.png)
+![OUTPUT](images/Screenshot_2025-04-30_173719.png)
+![OUTPUT](images/Screenshot_2025-04-30_173801.png)
 
 
 ---
